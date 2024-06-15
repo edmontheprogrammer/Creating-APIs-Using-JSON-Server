@@ -19,6 +19,7 @@ const PlayerList: React.FC<PlayerListProps> = ({ players, name }) => {
       <section>
         <section>
           <h1>NBA Players List</h1>
+          <h3>Click on Player Details to learn more about a specific player</h3>
         </section>
         <section>
           <table>
