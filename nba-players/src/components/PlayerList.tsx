@@ -18,7 +18,7 @@ const PlayerList: React.FC<PlayerListProps> = ({ players, name }) => {
     <>
       <section>
         <section>
-          <h1>Players List</h1>
+          <h1>NBA Players List</h1>
         </section>
         <section>
           <table>
@@ -41,7 +41,7 @@ const PlayerList: React.FC<PlayerListProps> = ({ players, name }) => {
 
                   <td>
                     <Link to={`/players/${player.id}`}>
-                      <button>View full details</button>
+                      <button>Player Details</button>
                     </Link>
                   </td>
                 </tr>
