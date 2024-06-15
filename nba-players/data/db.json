@@ -1,0 +1,35 @@
+{
+    "players": [
+      {
+        "id": 35,
+        "name": "Kevin Durant",
+        "email": "durant@kd.com",
+        "phone": "3535"
+      },
+      {
+        "id": 6,
+        "name": "Lebrone James",
+        "email": "james@kingjames.com",
+        "phone": "666"
+      },
+
+      {
+        "id": 3,
+        "name": "Dwyane Wade",
+        "email": "wade@flash.com",
+        "phone": "333"
+      },
+      {
+        "id": 8,
+        "name": "Kobe Bryant",
+        "email": "bryant@blackmamba.com",
+        "phone": "888"
+      },
+      {
+        "id": 11,
+        "name": "Kyrie Irving",
+        "email": "irving@uncledrew",
+        "phone": "1111"
+      }  
+    ]
+  }
